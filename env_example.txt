@@ -1,0 +1,23 @@
+# Configurazione Microsoft Graph
+TENANT_ID=ee6b29b7-6376-4655-9712-8096e78247f1
+CLIENT_ID=312ac792-f712-4e91-94ac-91f2d858b52b
+CLIENT_SECRET=wCp8Q~GpDCnUDldqwe3P4oKV-I~0Bh5VnwmwLdkp
+SENDER_EMAIL=f.defin@defincouverture.fr
+
+# Configurazione Google Sheets
+GOOGLE_SHEET_ID=1mSUd-XsPTABEbSZBc5whTdLUlid_Z0WbTIfsS4eXqUk
+GOOGLE_SERVICE_ACCOUNT_JSON={"type":"service_account","project_id":"key-transformer-464915-j2","private_key_id":"003c1648f096b314725db275e973e812eaa2bda5","private_key":"-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwtbnnUDL9Rvgz\nfSXEYptiZvg8zn7yPD0if34JXqPL3NebVr6dhhSXIgxrXrgdh0rmbDMbhbXtPqpS\n7ZMfXjlWtVZ/XNxPLJSG7b5Ijzlr+MOjpyUxHPEOP+20pjgFs0RANI06DqENgKLp\nmCeLqoYmpPr5Ba3q4mNeTSCtXdaJdL3dqtbFLdEmXKmQtt2Rce/UGbYlAKa9rOqS\nkisnKu8zqxxs1KklK9igIN5eVGwyzpeHUlmwcEFZ77pao25h++kSGfSgWaN0nRFU\nmo2+kKVGzxGP+1MVaqVx/TO3cBDHgWLaRfWvykKghekc6LEqfZFIP4SAUyWr2eVE\n2laUyW2RAgMBAAECggEABPlrR8XRVvbfTW0URJXKrkzxZ54fzbLWEmQIs2Z8xuQr\nFOjZXyF4mpPZ9KXLGgMGdTu40+lXfduvO2a2Uazl1qPZJlGss/UweHyLHYtxQDGq\n/tmEKatDuop10bQszIryJ2UzT93nOQmUzG2SOL4ZSPozmbydW4jO55x/3dF6lLju\nwEgkqIZWTnnJ+YQYyQpeIEQeh9/vmPZt62Y3WEtLWvY5L51pYFx1VaOvEDWrwQdN\no5i9FPMU9hT9oPgKdBMO1san3C9juRKO5dH6D9HzM3lCEHBVj0gon8HEVqpv9F5L\nq1LHPNbs3/2I9x/z985oSJjoaR9wWfcyGSjMM0Vw4QKBgQDZ4fuciAIYu2oPeBJQ\n/6dKDHrQ1FDn5xE8IqU/FlIU/1ykbtzkYCQzYxe54Mqb7YmWnNYc88vtmeEyDgfm\nLWFNYBNtZuTsOQQWdoOJbGJxYt50oanprfzG40/4CXVPSM1jgnHV/puhxVoztzME\nA0xhiUrvGmxbT1254dfruA/C6QKBgQDPn8oz4PA2lPsBEIPZ3b6k86UTbrvkLjBW\n1I7lwCKntEi2abS+8ytZvHdu7hFwbM9Ud4ji7eGO9RhbBVnQZN6paPdKlSsuvRi3\n1lwL0cYr7ARhxCWzX48AT/JNW8TIRnHwjEoW6Q8fMOrdYs6SbYR61zxqvxRbA86c\nVtXqilkcaQKBgGN29IQq2rorpGlXaRUtAFOfitmWczDKnWWUc1dvex02zjYKnjBr\na1tCG2yxoAy6zZrCEkS5TxkyrElLenOrt8W43GWPGWZ1SNZwV+/+WJpmhiM8QfL5\niHHLB5C10KXXGFwbCpikWKvrChidw15LmyzTni+1Ik401xaqcQWcyyUxAoGAX+GB\n5m1VYU9xju9KhH0zwkdGD3BO0rRF3INyrkUJe/r0rVCpiJkRhvJTEWZdpVaKdI5z\nJ6EFThh/s+EHtgYvEXsI4Gd8tqva02LpxQeOBdCLwX5sjqZtio5g7jqX6IknqxeO\nS4A7XIMhozUzAkoTKQtmukEdrF5YtrgfN53GQykCgYEAy5sOuBzzsFeHiwR7cN8s\nuJ9jL2mrAaHcA/lW6WDGjYFL8P98sjogwH7p0hhqtvEza2UkB7dTuSRnJcHdLJzY\nahclnKSne+1/Dwkzr7mF+BFfvhMQ99IUqnrUW2U/hb88VsbfOzaKJIHDPx1KPsWX\nAvdRKHGIl7xbvFf/3OFNWMI=\n-----END PRIVATE KEY-----\n","client_email":"diego-382@key-transformer-464915-j2.iam.gserviceaccount.com","client_id":"107195511793518150703","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_x509_cert_url":"https://www.googleapis.com/robot/v1/metadata/x509/diego-382%40key-transformer-464915-j2.iam.gserviceaccount.com","universe_domain":"googleapis.com"}
+
+# Configurazione Sistema
+TIMEZONE=Europe/Rome
+DAILY_TASK_TIME=06:00
+SEARCH_KEYWORD=facture
+WEEKS_BEFORE_FIRST_EMAIL=2
+WEEKS_BEFORE_SECOND_EMAIL=1
+
+# Configurazione Fogli
+MAIN_SHEET_NAME=Foglio1
+BLACKLIST_SHEET_NAME=Foglio2
+
+# Debug (solo per test)
+ENABLE_IMMEDIATE_TEST=false 

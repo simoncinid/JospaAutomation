@@ -1,0 +1,3017 @@
+Origin 	Destination 	Rate 																																															
+ AL	 AL	2.50																																															
+AR	 AL	1.80																																															
+AZ	 AL	1.40																																															
+CA	 AL	1.40																																															
+CO	 AL	1.20																																															
+CT	 AL	1.50																																															
+DE	 AL	1.50																																															
+FL	 AL	1.30																																															
+GA	 AL	1.50																																															
+IA	 AL	1.60																																															
+ID	 AL	1.20																																															
+IL	 AL	1.87																																															
+IN	 AL	1.80																																															
+KS	 AL	1.80																																															
+KY	 AL	2.00																																															
+LA	 AL	2.50																																															
+MA	 AL	1.40																																															
+MD	 AL	1.40																																															
+ME	 AL	1.30																																															
+MI	 AL	1.80																																															
+MN	 AL	1.65																																															
+MO	 AL	1.60																																															
+MS	 AL	2.00																																															
+MT	 AL	1.20																																															
+NC	 AL	1.60																																															
+ND	 AL	1.20																																															
+NE	 AL	1.50																																															
+NH	 AL	1.40																																															
+NJ	 AL	1.40																																															
+NM	 AL	1.20																																															
+NV	 AL	1.40																																															
+NY	 AL	1.40																																															
+OH	 AL	1.60																																															
+OK	 AL	1.60																																															
+OR	 AL	1.20																																															
+PA	 AL	1.40																																															
+RI	 AL	1.40																																															
+SC	 AL	1.50																																															
+SD	 AL	1.20																																															
+TN	 AL	2.00																																															
+TX	 AL	1.80																																															
+UT	 AL	1.50																																															
+VA	 AL	1.40																																															
+VT	 AL	1.40																																															
+WA	 AL	1.20																																															
+WI	 AL	1.85																																															
+WV	 AL	1.50																																															
+WY	 AL	1.20																																															
+ AL	AR	1.60																																															
+AR	AR	3.00																																															
+AZ	AR	1.40																																															
+CA	AR	1.50																																															
+CO	AR	1.20																																															
+CT	AR	1.40																																															
+DE	AR	1.40																																															
+FL	AR	1.20																																															
+GA	AR	1.40																																															
+IA	AR	1.80																																															
+ID	AR	1.30																																															
+IL	AR	1.85																																															
+IN	AR	1.80																																															
+KS	AR	2.00																																															
+KY	AR	1.70																																															
+LA	AR	1.56																																															
+MA	AR	1.40																																															
+MD	AR	1.40																																															
+ME	AR	1.30																																															
+MI	AR	1.80																																															
+MN	AR	1.70																																															
+MO	AR	1.80																																															
+MS	AR	1.70																																															
+MT	AR	1.20																																															
+NC	AR	1.40																																															
+ND	AR	1.20																																															
+NE	AR	1.60																																															
+NH	AR	1.40																																															
+NJ	AR	1.40																																															
+NM	AR	1.20																																															
+NV	AR	1.50																																															
+NY	AR	1.40																																															
+OH	AR	1.80																																															
+OK	AR	2.00																																															
+OR	AR	1.20																																															
+PA	AR	1.40																																															
+RI	AR	1.40																																															
+SC	AR	1.50																																															
+SD	AR	1.20																																															
+TN	AR	1.70																																															
+TX	AR	2.00																																															
+UT	AR	1.40																																															
+VA	AR	1.40																																															
+VT	AR	1.40																																															
+WA	AR	1.20																																															
+WI	AR	2.00																																															
+WV	AR	1.50																																															
+WY	AR	1.20																																															
+ AL	AZ	1.50																																															
+AR	AZ	1.70																																															
+AZ	AZ	3.00																																															
+CA	AZ	2.50																																															
+CO	AZ	1.48																																															
+CT	AZ	1.40																																															
+DE	AZ	1.40																																															
+FL	AZ	1.30																																															
+GA	AZ	1.40																																															
+IA	AZ	1.70																																															
+ID	AZ	1.50																																															
+IL	AZ	1.45																																															
+IN	AZ	1.40																																															
+KS	AZ	1.60																																															
+KY	AZ	1.50																																															
+LA	AZ	1.50																																															
+MA	AZ	1.40																																															
+MD	AZ	1.40																																															
+ME	AZ	1.30																																															
+MI	AZ	1.50																																															
+MN	AZ	1.70																																															
+MO	AZ	1.65																																															
+MS	AZ	1.40																																															
+MT	AZ	1.48																																															
+NC	AZ	1.40																																															
+ND	AZ	1.48																																															
+NE	AZ	1.80																																															
+NH	AZ	1.40																																															
+NJ	AZ	1.40																																															
+NM	AZ	1.48																																															
+NV	AZ	2.00																																															
+NY	AZ	1.50																																															
+OH	AZ	1.45																																															
+OK	AZ	1.60																																															
+OR	AZ	1.40																																															
+PA	AZ	1.40																																															
+RI	AZ	1.40																																															
+SC	AZ	1.40																																															
+SD	AZ	1.48																																															
+TN	AZ	1.50																																															
+TX	AZ	1.70																																															
+UT	AZ	1.40																																															
+VA	AZ	1.40																																															
+VT	AZ	1.40																																															
+WA	AZ	1.40																																															
+WI	AZ	1.40																																															
+WV	AZ	1.40																																															
+WY	AZ	1.48																																															
+ AL	CA	1.40																																															
+AR	CA	1.60																																															
+AZ	CA	1.40																																															
+CA	CA	2.00																																															
+CO	CA	1.33																																															
+CT	CA	1.40																																															
+DE	CA	1.40																																															
+FL	CA	1.40																																															
+GA	CA	1.40																																															
+IA	CA	1.60																																															
+ID	CA	1.40																																															
+IL	CA	1.35																																															
+IN	CA	1.50																																															
+KS	CA	1.5																																															
+KY	CA	1.50																																															
+LA	CA	1.50																																															
+MA	CA	1.40																																															
+MD	CA	1.40																																															
+ME	CA	1.30																																															
+MI	CA	1.50																																															
+MN	CA	1.50																																															
+MO	CA	1.67																																															
+MS	CA	1.40																																															
+MT	CA	1.33																																															
+NC	CA	1.40																																															
+ND	CA	1.33																																															
+NE	CA	1.67																																															
+NH	CA	1.40																																															
+NJ	CA	1.40																																															
+NM	CA	1.33																																															
+NV	CA	2.00																																															
+NY	CA	1.40																																															
+OH	CA	1.50																																															
+OK	CA	1.60																																															
+OR	CA	1.33																																															
+PA	CA	1.40																																															
+RI	CA	1.30																																															
+SC	CA	1.40																																															
+SD	CA	1.33																																															
+TN	CA	1.50																																															
+TX	CA	1.60																																															
+UT	CA	1.50																																															
+VA	CA	1.40																																															
+VT	CA	1.40																																															
+WA	CA	1.33																																															
+WI	CA	1.50																																															
+WV	CA	1.50																																															
+WY	CA	1.33																																															
+ AL	CO	1.70																																															
+AR	CO	2.00																																															
+AZ	CO	1.70																																															
+CA	CO	2.00																																															
+CO	CO	4.19																																															
+CT	CO	1.50																																															
+DE	CO	1.50																																															
+FL	CO	1.50																																															
+GA	CO	1.70																																															
+IA	CO	2.00																																															
+ID	CO	1.50																																															
+IL	CO	2.00																																															
+IN	CO	2.00																																															
+KS	CO	2.60																																															
+KY	CO	1.90																																															
+LA	CO	1.80																																															
+MA	CO	1.50																																															
+MD	CO	1.50																																															
+ME	CO	1.40																																															
+MI	CO	2.00																																															
+MN	CO	2.00																																															
+MO	CO	2.00																																															
+MS	CO	1.80																																															
+MT	CO	1.50																																															
+NC	CO	1.50																																															
+ND	CO	2.00																																															
+NE	CO	2.30																																															
+NH	CO	1.50																																															
+NJ	CO	1.50																																															
+NM	CO	2.00																																															
+NV	CO	1.80																																															
+NY	CO	1.50																																															
+OH	CO	1.85																																															
+OK	CO	2.60																																															
+OR	CO	1.50																																															
+PA	CO	1.50																																															
+RI	CO	1.50																																															
+SC	CO	1.60																																															
+SD	CO	4.19																																															
+TN	CO	1.90																																															
+TX	CO	2.00																																															
+UT	CO	2.00																																															
+VA	CO	1.40																																															
+VT	CO	1.50																																															
+WA	CO	1.50																																															
+WI	CO	2.00																																															
+WV	CO	1.70																																															
+WY	CO	2.00																																															
+ AL	CT	1.50																																															
+AR	CT	1.67																																															
+AZ	CT	1.40																																															
+CA	CT	1.40																																															
+CO	CT	1.20																																															
+CT	CT	3.00																																															
+DE	CT	2.00																																															
+FL	CT	1.40																																															
+GA	CT	1.50																																															
+IA	CT	1.67																																															
+ID	CT	1.20																																															
+IL	CT	1.85																																															
+IN	CT	1.85																																															
+KS	CT	1.70																																															
+KY	CT	1.70																																															
+LA	CT	1.60																																															
+MA	CT	2.00																																															
+MD	CT	2.00																																															
+ME	CT	1.40																																															
+MI	CT	2.00																																															
+MN	CT	1.70																																															
+MO	CT	1.67																																															
+MS	CT	1.70																																															
+MT	CT	1.20																																															
+NC	CT	1.50																																															
+ND	CT	1.20																																															
+NE	CT	1.60																																															
+NH	CT	2.00																																															
+NJ	CT	2.00																																															
+NM	CT	1.20																																															
+NV	CT	1.40																																															
+NY	CT	2.00																																															
+OH	CT	2.00																																															
+OK	CT	1.70																																															
+OR	CT	1.20																																															
+PA	CT	2.00																																															
+RI	CT	2.00																																															
+SC	CT	1.50																																															
+SD	CT	1.20																																															
+TN	CT	1.70																																															
+TX	CT	1.60																																															
+UT	CT	1.40																																															
+VA	CT	2.00																																															
+VT	CT	2.00																																															
+WA	CT	1.20																																															
+WI	CT	1.85																																															
+WV	CT	2.00																																															
+WY	CT	1.20																																															
+ AL	DE	1.60																																															
+AR	DE	1.60																																															
+AZ	DE	1.40																																															
+CA	DE	1.40																																															
+CO	DE	1.20																																															
+CT	DE	1.40																																															
+DE	DE	7.00																																															
+FL	DE	1.30																																															
+GA	DE	1.50																																															
+IA	DE	1.67																																															
+ID	DE	1.30																																															
+IL	DE	1.85																																															
+IN	DE	1.85																																															
+KS	DE	1.60																																															
+KY	DE	1.70																																															
+LA	DE	1.60																																															
+MA	DE	2.00																																															
+MD	DE	7.00																																															
+ME	DE	1.40																																															
+MI	DE	2.00																																															
+MN	DE	1.70																																															
+MO	DE	1.67																																															
+MS	DE	1.70																																															
+MT	DE	1.20																																															
+NC	DE	1.50																																															
+ND	DE	1.20																																															
+NE	DE	1.50																																															
+NH	DE	1.40																																															
+NJ	DE	2.00																																															
+NM	DE	1.20																																															
+NV	DE	1.40																																															
+NY	DE	2.00																																															
+OH	DE	2.00																																															
+OK	DE	1.60																																															
+OR	DE	1.20																																															
+PA	DE	2.00																																															
+RI	DE	1.40																																															
+SC	DE	1.50																																															
+SD	DE	1.20																																															
+TN	DE	1.70																																															
+TX	DE	1.60																																															
+UT	DE	1.40																																															
+VA	DE	2.00																																															
+VT	DE	1.40																																															
+WA	DE	1.20																																															
+WI	DE	1.85																																															
+WV	DE	2.00																																															
+WY	DE	1.20																																															
+ AL	FL	2.00																																															
+AR	FL	1.80																																															
+AZ	FL	1.50																																															
+CA	FL	1.50																																															
+CO	FL	1.70																																															
+CT	FL	1.70																																															
+DE	FL	1.78																																															
+FL	FL	2.00																																															
+GA	FL	2.00																																															
+IA	FL	1.70																																															
+ID	FL	1.70																																															
+IL	FL	1.85																																															
+IN	FL	1.85																																															
+KS	FL	1.80																																															
+KY	FL	2.00																																															
+LA	FL	2.00																																															
+MA	FL	1.70																																															
+MD	FL	1.78																																															
+ME	FL	1.50																																															
+MI	FL	2.00																																															
+MN	FL	2.00																																															
+MO	FL	1.80																																															
+MS	FL	1.89																																															
+MT	FL	1.50																																															
+NC	FL	2.00																																															
+ND	FL	1.50																																															
+NE	FL	1.67																																															
+NH	FL	1.60																																															
+NJ	FL	1.80																																															
+NM	FL	1.50																																															
+NV	FL	1.50																																															
+NY	FL	1.70																																															
+OH	FL	2.00																																															
+OK	FL	2.00																																															
+OR	FL	1.50																																															
+PA	FL	1.87																																															
+RI	FL	1.50																																															
+SC	FL	2.00																																															
+SD	FL	1.50																																															
+TN	FL	1.90																																															
+TX	FL	1.70																																															
+UT	FL	1.50																																															
+VA	FL	1.60																																															
+VT	FL	1.40																																															
+WA	FL	1.40																																															
+WI	FL	2.00																																															
+WV	FL	1.70																																															
+WY	FL	1.40																																															
+ AL	GA	2.00																																															
+AR	GA	1.80																																															
+AZ	GA	1.40																																															
+CA	GA	1.40																																															
+CO	GA	1.20																																															
+CT	GA	1.50																																															
+DE	GA	1.60																																															
+FL	GA	1.20																																															
+GA	GA	4.28																																															
+IA	GA	1.80																																															
+ID	GA	1.50																																															
+IL	GA	1.85																																															
+IN	GA	1.85																																															
+KS	GA	1.80																																															
+KY	GA	1.89																																															
+LA	GA	2.00																																															
+MA	GA	1.40																																															
+MD	GA	1.50																																															
+ME	GA	1.40																																															
+MI	GA	2.00																																															
+MN	GA	1.80																																															
+MO	GA	1.80																																															
+MS	GA	1.89																																															
+MT	GA	1.20																																															
+NC	GA	2.00																																															
+ND	GA	1.20																																															
+NE	GA	1.60																																															
+NH	GA	1.40																																															
+NJ	GA	1.50																																															
+NM	GA	1.20																																															
+NV	GA	1.40																																															
+NY	GA	1.40																																															
+OH	GA	2.00																																															
+OK	GA	1.80																																															
+OR	GA	1.20																																															
+PA	GA	1.40																																															
+RI	GA	1.40																																															
+SC	GA	2.00																																															
+SD	GA	1.20																																															
+TN	GA	1.89																																															
+TX	GA	1.60																																															
+UT	GA	1.40																																															
+VA	GA	1.50																																															
+VT	GA	1.40																																															
+WA	GA	1.20																																															
+WI	GA	1.85																																															
+WV	GA	1.50																																															
+WY	GA	1.20																																															
+ AL	IA	1.50																																															
+AR	IA	1.70																																															
+AZ	IA	1.40																																															
+CA	IA	1.40																																															
+CO	IA	1.20																																															
+CT	IA	1.40																																															
+DE	IA	1.40																																															
+FL	IA	1.20																																															
+GA	IA	1.40																																															
+IA	IA	3.79																																															
+ID	IA	1.40																																															
+IL	IA	2.00																																															
+IN	IA	2.00																																															
+KS	IA	1.80																																															
+KY	IA	1.70																																															
+LA	IA	1.60																																															
+MA	IA	1.40																																															
+MD	IA	1.40																																															
+ME	IA	1.30																																															
+MI	IA	2.00																																															
+MN	IA	2.00																																															
+MO	IA	2.00																																															
+MS	IA	1.68																																															
+MT	IA	1.20																																															
+NC	IA	1.40																																															
+ND	IA	1.60																																															
+NE	IA	1.89																																															
+NH	IA	1.40																																															
+NJ	IA	1.40																																															
+NM	IA	1.20																																															
+NV	IA	1.40																																															
+NY	IA	1.40																																															
+OH	IA	1.70																																															
+OK	IA	1.80																																															
+OR	IA	1.20																																															
+PA	IA	1.40																																															
+RI	IA	1.40																																															
+SC	IA	1.40																																															
+SD	IA	1.20																																															
+TN	IA	1.70																																															
+TX	IA	1.67																																															
+UT	IA	1.40																																															
+VA	IA	1.40																																															
+VT	IA	1.40																																															
+WA	IA	1.20																																															
+WI	IA	2.00																																															
+WV	IA	1.40																																															
+WY	IA	1.20																																															
+ AL	ID	1.70																																															
+AR	ID	2.00																																															
+AZ	ID	2.00																																															
+CA	ID	2.00																																															
+CO	ID	2.00																																															
+CT	ID	1.40																																															
+DE	ID	1.40																																															
+FL	ID	1.40																																															
+GA	ID	1.60																																															
+IA	ID	2.00																																															
+ID	ID	3.07																																															
+IL	ID	1.70																																															
+IN	ID	1.70																																															
+KS	ID	2.00																																															
+KY	ID	1.80																																															
+LA	ID	1.70																																															
+MA	ID	1.40																																															
+MD	ID	1.50																																															
+ME	ID	1.40																																															
+MI	ID	1.70																																															
+MN	ID	2.00																																															
+MO	ID	2.00																																															
+MS	ID	1.50																																															
+MT	ID	2.00																																															
+NC	ID	1.50																																															
+ND	ID	2.00																																															
+NE	ID	2.00																																															
+NH	ID	1.40																																															
+NJ	ID	1.50																																															
+NM	ID	2.00																																															
+NV	ID	2.00																																															
+NY	ID	1.50																																															
+OH	ID	1.50																																															
+OK	ID	1.60																																															
+OR	ID	2.00																																															
+PA	ID	1.50																																															
+RI	ID	1.40																																															
+SC	ID	1.50																																															
+SD	ID	2.00																																															
+TN	ID	1.50																																															
+TX	ID	1.60																																															
+UT	ID	2.00																																															
+VA	ID	1.50																																															
+VT	ID	1.40																																															
+WA	ID	1.70																																															
+WI	ID	1.80																																															
+WV	ID	1.40																																															
+WY	ID	1.60																																															
+ AL	IL	1.50																																															
+AR	IL	1.50																																															
+AZ	IL	1.35																																															
+CA	IL	1.40																																															
+CO	IL	1.20																																															
+CT	IL	1.40																																															
+DE	IL	1.40																																															
+FL	IL	1.20																																															
+GA	IL	1.40																																															
+IA	IL	1.80																																															
+ID	IL	1.40																																															
+IL	IL	3.00																																															
+IN	IL	2.00																																															
+KS	IL	1.50																																															
+KY	IL	1.60																																															
+LA	IL	1.40																																															
+MA	IL	1.30																																															
+MD	IL	1.35																																															
+ME	IL	1.35																																															
+MI	IL	2.00																																															
+MN	IL	1.50																																															
+MO	IL	2.00																																															
+MS	IL	1.50																																															
+MT	IL	1.20																																															
+NC	IL	1.30																																															
+ND	IL	1.20																																															
+NE	IL	1.40																																															
+NH	IL	1.35																																															
+NJ	IL	1.40																																															
+NM	IL	1.20																																															
+NV	IL	1.40																																															
+NY	IL	1.35																																															
+OH	IL	2.00																																															
+OK	IL	1.50																																															
+OR	IL	1.20																																															
+PA	IL	1.40																																															
+RI	IL	1.40																																															
+SC	IL	1.30																																															
+SD	IL	1.20																																															
+TN	IL	1.50																																															
+TX	IL	1.50																																															
+UT	IL	1.40																																															
+VA	IL	1.40																																															
+VT	IL	1.40																																															
+WA	IL	1.20																																															
+WI	IL	3.00																																															
+WV	IL	1.40																																															
+WY	IL	1.20																																															
+ AL	IN	1.50																																															
+AR	IN	1.50																																															
+AZ	IN	1.35																																															
+CA	IN	1.40																																															
+CO	IN	1.20																																															
+CT	IN	1.40																																															
+DE	IN	1.40																																															
+FL	IN	1.20																																															
+GA	IN	1.40																																															
+IA	IN	1.80																																															
+ID	IN	1.40																																															
+IL	IN	3.00																																															
+IN	IN	2.00																																															
+KS	IN	1.50																																															
+KY	IN	1.60																																															
+LA	IN	1.40																																															
+MA	IN	1.30																																															
+MD	IN	1.35																																															
+ME	IN	1.35																																															
+MI	IN	2.00																																															
+MN	IN	1.50																																															
+MO	IN	2.00																																															
+MS	IN	1.50																																															
+MT	IN	1.20																																															
+NC	IN	1.30																																															
+ND	IN	1.20																																															
+NE	IN	1.40																																															
+NH	IN	1.35																																															
+NJ	IN	1.40																																															
+NM	IN	1.20																																															
+NV	IN	1.40																																															
+NY	IN	1.35																																															
+OH	IN	2.00																																															
+OK	IN	1.50																																															
+OR	IN	1.20																																															
+PA	IN	1.40																																															
+RI	IN	1.40																																															
+SC	IN	1.30																																															
+SD	IN	1.20																																															
+TN	IN	1.50																																															
+TX	IN	1.50																																															
+UT	IN	1.40																																															
+VA	IN	1.40																																															
+VT	IN	1.40																																															
+WA	IN	1.20																																															
+WI	IN	2.00																																															
+WV	IN	1.40																																															
+WY	IN	1.20																																															
+ AL	KS	1.60																																															
+AR	KS	2.00																																															
+AZ	KS	1.50																																															
+CA	KS	1.50																																															
+CO	KS	1.20																																															
+CT	KS	1.40																																															
+DE	KS	1.40																																															
+FL	KS	1.20																																															
+GA	KS	1.40																																															
+IA	KS	1.80																																															
+ID	KS	1.50																																															
+IL	KS	1.85																																															
+IN	KS	1.85																																															
+KS	KS	2.00																																															
+KY	KS	1.70																																															
+LA	KS	1.67																																															
+MA	KS	1.40																																															
+MD	KS	1.40																																															
+ME	KS	1.30																																															
+MI	KS	1.85																																															
+MN	KS	1.70																																															
+MO	KS	1.80																																															
+MS	KS	1.65																																															
+MT	KS	1.20																																															
+NC	KS	1.40																																															
+ND	KS	1.20																																															
+NE	KS	1.70																																															
+NH	KS	1.40																																															
+NJ	KS	1.40																																															
+NM	KS	1.20																																															
+NV	KS	1.50																																															
+NY	KS	1.40																																															
+OH	KS	1.78																																															
+OK	KS	2.00																																															
+OR	KS	1.20																																															
+PA	KS	1.40																																															
+RI	KS	1.40																																															
+SC	KS	1.50																																															
+SD	KS	1.20																																															
+TN	KS	1.70																																															
+TX	KS	1.70																																															
+UT	KS	1.40																																															
+VA	KS	1.40																																															
+VT	KS	1.40																																															
+WA	KS	1.20																																															
+WI	KS	1.85																																															
+WV	KS	1.40																																															
+WY	KS	1.20																																															
+ AL	KY	1.50																																															
+AR	KY	1.65																																															
+AZ	KY	1.40																																															
+CA	KY	1.40																																															
+CO	KY	1.20																																															
+CT	KY	1.40																																															
+DE	KY	1.40																																															
+FL	KY	1.20																																															
+GA	KY	1.50																																															
+IA	KY	1.60																																															
+ID	KY	1.50																																															
+IL	KY	2.00																																															
+IN	KY	2.00																																															
+KS	KY	1.70																																															
+KY	KY	4.63																																															
+LA	KY	1.50																																															
+MA	KY	1.40																																															
+MD	KY	1.40																																															
+ME	KY	1.30																																															
+MI	KY	2.00																																															
+MN	KY	1.70																																															
+MO	KY	1.60																																															
+MS	KY	1.85																																															
+MT	KY	1.20																																															
+NC	KY	1.50																																															
+ND	KY	1.20																																															
+NE	KY	1.50																																															
+NH	KY	1.40																																															
+NJ	KY	1.40																																															
+NM	KY	1.20																																															
+NV	KY	1.40																																															
+NY	KY	1.40																																															
+OH	KY	2.00																																															
+OK	KY	1.70																																															
+OR	KY	1.20																																															
+PA	KY	1.40																																															
+RI	KY	1.40																																															
+SC	KY	1.50																																															
+SD	KY	1.20																																															
+TN	KY	4.63																																															
+TX	KY	1.50																																															
+UT	KY	1.40																																															
+VA	KY	1.50																																															
+VT	KY	1.40																																															
+WA	KY	1.20																																															
+WI	KY	1.85																																															
+WV	KY	1.50																																															
+WY	KY	1.20																																															
+ AL	LA	2.00																																															
+AR	LA	1.85																																															
+AZ	LA	1.40																																															
+CA	LA	1.40																																															
+CO	LA	1.20																																															
+CT	LA	1.40																																															
+DE	LA	1.40																																															
+FL	LA	1.40																																															
+GA	LA	2.00																																															
+IA	LA	1.80																																															
+ID	LA	1.30																																															
+IL	LA	1.85																																															
+IN	LA	1.85																																															
+KS	LA	2.00																																															
+KY	LA	2.00																																															
+LA	LA	2.50																																															
+MA	LA	1.40																																															
+MD	LA	1.50																																															
+ME	LA	1.40																																															
+MI	LA	2.00																																															
+MN	LA	1.70																																															
+MO	LA	1.80																																															
+MS	LA	2.00																																															
+MT	LA	1.20																																															
+NC	LA	1.80																																															
+ND	LA	1.20																																															
+NE	LA	1.60																																															
+NH	LA	1.70																																															
+NJ	LA	1.40																																															
+NM	LA	1.20																																															
+NV	LA	1.40																																															
+NY	LA	1.40																																															
+OH	LA	1.85																																															
+OK	LA	1.80																																															
+OR	LA	1.20																																															
+PA	LA	1.40																																															
+RI	LA	1.40																																															
+SC	LA	1.70																																															
+SD	LA	1.20																																															
+TN	LA	2.00																																															
+TX	LA	2.00																																															
+UT	LA	1.40																																															
+VA	LA	1.50																																															
+VT	LA	1.5																																															
+WA	LA	1.20																																															
+WI	LA	1.85																																															
+WV	LA	1.70																																															
+WY	LA	1.20																																															
+ AL	MA	1.50																																															
+AR	MA	1.60																																															
+AZ	MA	1.40																																															
+CA	MA	1.40																																															
+CO	MA	1.20																																															
+CT	MA	2.00																																															
+DE	MA	2.00																																															
+FL	MA	1.50																																															
+GA	MA	1.50																																															
+IA	MA	1.80																																															
+ID	MA	1.30																																															
+IL	MA	1.85																																															
+IN	MA	1.85																																															
+KS	MA	1.60																																															
+KY	MA	1.70																																															
+LA	MA	1.50																																															
+MA	MA	3.00																																															
+MD	MA	2.00																																															
+ME	MA	1.50																																															
+MI	MA	2.00																																															
+MN	MA	1.70																																															
+MO	MA	1.80																																															
+MS	MA	1.70																																															
+MT	MA	1.20																																															
+NC	MA	1.50																																															
+ND	MA	1.20																																															
+NE	MA	1.50																																															
+NH	MA	2.00																																															
+NJ	MA	2.00																																															
+NM	MA	1.20																																															
+NV	MA	1.40																																															
+NY	MA	2.00																																															
+OH	MA	2.00																																															
+OK	MA	1.80																																															
+OR	MA	1.20																																															
+PA	MA	2.00																																															
+RI	MA	2.00																																															
+SC	MA	1.50																																															
+SD	MA	1.20																																															
+TN	MA	1.70																																															
+TX	MA	1.60																																															
+UT	MA	1.40																																															
+VA	MA	2.00																																															
+VT	MA	2.00																																															
+WA	MA	1.20																																															
+WI	MA	1.85																																															
+WV	MA	2.00																																															
+WY	MA	1.20																																															
+ AL	MD	1.50																																															
+AR	MD	1.70																																															
+AZ	MD	1.40																																															
+CA	MD	1.40																																															
+CO	MD	1.20																																															
+CT	MD	1.50																																															
+DE	MD	9.63																																															
+FL	MD	1.40																																															
+GA	MD	1.50																																															
+IA	MD	1.80																																															
+ID	MD	1.30																																															
+IL	MD	1.85																																															
+IN	MD	1.85																																															
+KS	MD	1.70																																															
+KY	MD	1.70																																															
+LA	MD	1.65																																															
+MA	MD	1.50																																															
+MD	MD	9.63																																															
+ME	MD	1.40																																															
+MI	MD	2.00																																															
+MN	MD	1.70																																															
+MO	MD	1.80																																															
+MS	MD	1.70																																															
+MT	MD	1.20																																															
+NC	MD	1.50																																															
+ND	MD	1.20																																															
+NE	MD	1.60																																															
+NH	MD	1.50																																															
+NJ	MD	2.00																																															
+NM	MD	1.20																																															
+NV	MD	1.40																																															
+NY	MD	2.00																																															
+OH	MD	2.00																																															
+OK	MD	1.70																																															
+OR	MD	1.20																																															
+PA	MD	2.00																																															
+RI	MD	1.60																																															
+SC	MD	1.50																																															
+SD	MD	1.20																																															
+TN	MD	1.70																																															
+TX	MD	1.60																																															
+UT	MD	1.40																																															
+VA	MD	2.00																																															
+VT	MD	1.60																																															
+WA	MD	1.20																																															
+WI	MD	1.85																																															
+WV	MD	2.00																																															
+WY	MD	1.20																																															
+ AL	ME	1.60																																															
+AR	ME	1.70																																															
+AZ	ME	1.40																																															
+CA	ME	1.40																																															
+CO	ME	1.40																																															
+CT	ME	2.00																																															
+DE	ME	2.00																																															
+FL	ME	1.50																																															
+GA	ME	1.70																																															
+IA	ME	1.78																																															
+ID	ME	1.50																																															
+IL	ME	1.85																																															
+IN	ME	1.85																																															
+KS	ME	1.65																																															
+KY	ME	1.70																																															
+LA	ME	1.70																																															
+MA	ME	2.00																																															
+MD	ME	2.00																																															
+ME	ME	2.00																																															
+MI	ME	2.00																																															
+MN	ME	2.00																																															
+MO	ME	2.00																																															
+MS	ME	1.70																																															
+MT	ME	1.50																																															
+NC	ME	2.00																																															
+ND	ME	1.70																																															
+NE	ME	1.70																																															
+NH	ME	2.00																																															
+NJ	ME	2.00																																															
+NM	ME	1.70																																															
+NV	ME	1.50																																															
+NY	ME	2.00																																															
+OH	ME	2.00																																															
+OK	ME	1.70																																															
+OR	ME	1.50																																															
+PA	ME	2.00																																															
+RI	ME	2.00																																															
+SC	ME	2.00																																															
+SD	ME	1.50																																															
+TN	ME	1.80																																															
+TX	ME	1.60																																															
+UT	ME	1.67																																															
+VA	ME	2.00																																															
+VT	ME	2.00																																															
+WA	ME	1.50																																															
+WI	ME	1.85																																															
+WV	ME	2.00																																															
+WY	ME	1.50																																															
+ AL	MI	1.60																																															
+AR	MI	1.68																																															
+AZ	MI	1.40																																															
+CA	MI	1.40																																															
+CO	MI	1.20																																															
+CT	MI	1.40																																															
+DE	MI	1.40																																															
+FL	MI	1.20																																															
+GA	MI	1.30																																															
+IA	MI	1.80																																															
+ID	MI	1.30																																															
+IL	MI	2.00																																															
+IN	MI	2.00																																															
+KS	MI	1.70																																															
+KY	MI	2.00																																															
+LA	MI	1.60																																															
+MA	MI	1.40																																															
+MD	MI	1.40																																															
+ME	MI	1.30																																															
+MI	MI	2.00																																															
+MN	MI	1.70																																															
+MO	MI	1.70																																															
+MS	MI	1.70																																															
+MT	MI	1.20																																															
+NC	MI	1.30																																															
+ND	MI	1.20																																															
+NE	MI	1.60																																															
+NH	MI	1.40																																															
+NJ	MI	1.40																																															
+NM	MI	1.20																																															
+NV	MI	1.40																																															
+NY	MI	1.40																																															
+OH	MI	2.00																																															
+OK	MI	1.67																																															
+OR	MI	1.20																																															
+PA	MI	1.40																																															
+RI	MI	1.40																																															
+SC	MI	1.30																																															
+SD	MI	1.20																																															
+TN	MI	1.70																																															
+TX	MI	1.67																																															
+UT	MI	1.40																																															
+VA	MI	1.40																																															
+VT	MI	1.40																																															
+WA	MI	1.20																																															
+WI	MI	2.00																																															
+WV	MI	1.50																																															
+WY	MI	1.20																																															
+ AL	MN	1.50																																															
+AR	MN	1.65																																															
+AZ	MN	1.40																																															
+CA	MN	1.40																																															
+CO	MN	1.20																																															
+CT	MN	1.40																																															
+DE	MN	1.40																																															
+FL	MN	1.20																																															
+GA	MN	1.30																																															
+IA	MN	1.80																																															
+ID	MN	1.30																																															
+IL	MN	1.85																																															
+IN	MN	1.85																																															
+KS	MN	1.60																																															
+KY	MN	1.60																																															
+LA	MN	1.65																																															
+MA	MN	1.40																																															
+MD	MN	1.40																																															
+ME	MN	1.30																																															
+MI	MN	2.00																																															
+MN	MN	3.00																																															
+MO	MN	1.80																																															
+MS	MN	1.67																																															
+MT	MN	1.20																																															
+NC	MN	1.30																																															
+ND	MN	1.20																																															
+NE	MN	1.60																																															
+NH	MN	1.40																																															
+NJ	MN	1.40																																															
+NM	MN	1.20																																															
+NV	MN	1.40																																															
+NY	MN	1.40																																															
+OH	MN	1.70																																															
+OK	MN	1.60																																															
+OR	MN	1.20																																															
+PA	MN	1.40																																															
+RI	MN	1.40																																															
+SC	MN	1.30																																															
+SD	MN	1.20																																															
+TN	MN	1.65																																															
+TX	MN	1.65																																															
+UT	MN	1.40																																															
+VA	MN	1.40																																															
+VT	MN	1.30																																															
+WA	MN	1.20																																															
+WI	MN	2.00																																															
+WV	MN	1.40																																															
+WY	MN	1.20																																															
+ AL	MO	1.50																																															
+AR	MO	2.00																																															
+AZ	MO	1.40																																															
+CA	MO	1.40																																															
+CO	MO	1.00																																															
+CT	MO	1.30																																															
+DE	MO	1.40																																															
+FL	MO	1.20																																															
+GA	MO	1.30																																															
+IA	MO	1.80																																															
+ID	MO	1.30																																															
+IL	MO	1.85																																															
+IN	MO	1.85																																															
+KS	MO	2.00																																															
+KY	MO	1.70																																															
+LA	MO	1.60																																															
+MA	MO	1.40																																															
+MD	MO	1.40																																															
+ME	MO	1.30																																															
+MI	MO	2.00																																															
+MN	MO	1.70																																															
+MO	MO	2.00																																															
+MS	MO	1.65																																															
+MT	MO	1.20																																															
+NC	MO	1.30																																															
+ND	MO	1.20																																															
+NE	MO	1.65																																															
+NH	MO	1.30																																															
+NJ	MO	1.40																																															
+NM	MO	1.20																																															
+NV	MO	1.40																																															
+NY	MO	1.50																																															
+OH	MO	1.78																																															
+OK	MO	2.00																																															
+OR	MO	1.20																																															
+PA	MO	1.40																																															
+RI	MO	1.40																																															
+SC	MO	1.30																																															
+SD	MO	1.20																																															
+TN	MO	1.70																																															
+TX	MO	1.85																																															
+UT	MO	1.40																																															
+VA	MO	1.40																																															
+VT	MO	1.30																																															
+WA	MO	1.20																																															
+WI	MO	2.00																																															
+WV	MO	1.50																																															
+WY	MO	1.20																																															
+ AL	MS	2.00																																															
+AR	MS	1.78																																															
+AZ	MS	1.40																																															
+CA	MS	1.40																																															
+CO	MS	1.20																																															
+CT	MS	1.50																																															
+DE	MS	1.40																																															
+FL	MS	1.20																																															
+GA	MS	1.70																																															
+IA	MS	1.80																																															
+ID	MS	1.40																																															
+IL	MS	1.85																																															
+IN	MS	1.85																																															
+KS	MS	1.78																																															
+KY	MS	2.00																																															
+LA	MS	2.00																																															
+MA	MS	1.40																																															
+MD	MS	1.40																																															
+ME	MS	1.30																																															
+MI	MS	2.00																																															
+MN	MS	1.70																																															
+MO	MS	1.80																																															
+MS	MS	2.00																																															
+MT	MS	1.20																																															
+NC	MS	1.70																																															
+ND	MS	1.20																																															
+NE	MS	1.65																																															
+NH	MS	1.30																																															
+NJ	MS	1.40																																															
+NM	MS	1.20																																															
+NV	MS	1.40																																															
+NY	MS	1.40																																															
+OH	MS	2.00																																															
+OK	MS	1.78																																															
+OR	MS	1.20																																															
+PA	MS	1.40																																															
+RI	MS	1.30																																															
+SC	MS	1.65																																															
+SD	MS	1.20																																															
+TN	MS	2.00																																															
+TX	MS	1.60																																															
+UT	MS	1.40																																															
+VA	MS	1.40																																															
+VT	MS	1.30																																															
+WA	MS	1.20																																															
+WI	MS	1.85																																															
+WV	MS	1.50																																															
+WY	MS	1.20																																															
+ AL	MT	2.00																																															
+AR	MT	2.00																																															
+AZ	MT	2.00																																															
+CA	MT	2.00																																															
+CO	MT	3.00																																															
+CT	MT	1.65																																															
+DE	MT	1.65																																															
+FL	MT	1.65																																															
+GA	MT	1.65																																															
+IA	MT	2.00																																															
+ID	MT	2.00																																															
+IL	MT	2.00																																															
+IN	MT	2.00																																															
+KS	MT	2.00																																															
+KY	MT	2.00																																															
+LA	MT	2.00																																															
+MA	MT	1.65																																															
+MD	MT	1.65																																															
+ME	MT	1.65																																															
+MI	MT	2.00																																															
+MN	MT	2.00																																															
+MO	MT	2.00																																															
+MS	MT	1.85																																															
+MT	MT	3.00																																															
+NC	MT	1.67																																															
+ND	MT	3.00																																															
+NE	MT	3.00																																															
+NH	MT	1.50																																															
+NJ	MT	1.65																																															
+NM	MT	2.00																																															
+NV	MT	2.00																																															
+NY	MT	1.64																																															
+OH	MT	2.00																																															
+OK	MT	2.00																																															
+OR	MT	2.00																																															
+PA	MT	1.65																																															
+RI	MT	1.50																																															
+SC	MT	1.65																																															
+SD	MT	3.00																																															
+TN	MT	2.00																																															
+TX	MT	2.00																																															
+UT	MT	2.00																																															
+VA	MT	1.60																																															
+VT	MT	1.60																																															
+WA	MT	2.00																																															
+WI	MT	2.00																																															
+WV	MT	1.65																																															
+WY	MT	3.00																																															
+ AL	NC	1.70																																															
+AR	NC	1.68																																															
+AZ	NC	1.40																																															
+CA	NC	1.40																																															
+CO	NC	1.20																																															
+CT	NC	1.50																																															
+DE	NC	1.50																																															
+FL	NC	1.20																																															
+GA	NC	2.50																																															
+IA	NC	1.80																																															
+ID	NC	1.30																																															
+IL	NC	1.85																																															
+IN	NC	1.85																																															
+KS	NC	1.68																																															
+KY	NC	1.70																																															
+LA	NC	1.70																																															
+MA	NC	1.50																																															
+MD	NC	1.50																																															
+ME	NC	1.40																																															
+MI	NC	2.00																																															
+MN	NC	1.70																																															
+MO	NC	1.80																																															
+MS	NC	1.70																																															
+MT	NC	1.20																																															
+NC	NC	2.50																																															
+ND	NC	1.20																																															
+NE	NC	1.60																																															
+NH	NC	1.40																																															
+NJ	NC	1.50																																															
+NM	NC	1.20																																															
+NV	NC	1.40																																															
+NY	NC	1.50																																															
+OH	NC	2.00																																															
+OK	NC	1.70																																															
+OR	NC	1.20																																															
+PA	NC	1.50																																															
+RI	NC	1.50																																															
+SC	NC	2.00																																															
+SD	NC	1.20																																															
+TN	NC	1.70																																															
+TX	NC	1.68																																															
+UT	NC	1.40																																															
+VA	NC	1.50																																															
+VT	NC	1.50																																															
+WA	NC	1.20																																															
+WI	NC	1.85																																															
+WV	NC	1.50																																															
+WY	NC	1.20																																															
+ AL	ND	1.60																																															
+AR	ND	2.00																																															
+AZ	ND	1.60																																															
+CA	ND	1.67																																															
+CO	ND	1.50																																															
+CT	ND	1.50																																															
+DE	ND	1.60																																															
+FL	ND	1.40																																															
+GA	ND	1.60																																															
+IA	ND	2.00																																															
+ID	ND	1.50																																															
+IL	ND	2.00																																															
+IN	ND	2.00																																															
+KS	ND	2.00																																															
+KY	ND	2.00																																															
+LA	ND	1.70																																															
+MA	ND	1.50																																															
+MD	ND	1.60																																															
+ME	ND	1.40																																															
+MI	ND	2.00																																															
+MN	ND	3.00																																															
+MO	ND	2.00																																															
+MS	ND	2.00																																															
+MT	ND	1.50																																															
+NC	ND	1.60																																															
+ND	ND	2.00																																															
+NE	ND	2.00																																															
+NH	ND	1.50																																															
+NJ	ND	1.60																																															
+NM	ND	1.80																																															
+NV	ND	1.70																																															
+NY	ND	1.60																																															
+OH	ND	2.00																																															
+OK	ND	2.00																																															
+OR	ND	1.50																																															
+PA	ND	1.60																																															
+RI	ND	1.50																																															
+SC	ND	1.60																																															
+SD	ND	1.80																																															
+TN	ND	2.00																																															
+TX	ND	1.76																																															
+UT	ND	1.70																																															
+VA	ND	1.60																																															
+VT	ND	1.50																																															
+WA	ND	1.50																																															
+WI	ND	2.50																																															
+WV	ND	1.80																																															
+WY	ND	1.30																																															
+ AL	NE	1.70																																															
+AR	NE	2.00																																															
+AZ	NE	1.50																																															
+CA	NE	1.60																																															
+CO	NE	1.00																																															
+CT	NE	1.50																																															
+DE	NE	1.50																																															
+FL	NE	1.40																																															
+GA	NE	1.50																																															
+IA	NE	3.67																																															
+ID	NE	1.30																																															
+IL	NE	1.85																																															
+IN	NE	1.85																																															
+KS	NE	2.00																																															
+KY	NE	2.00																																															
+LA	NE	1.60																																															
+MA	NE	1.50																																															
+MD	NE	1.50																																															
+ME	NE	1.50																																															
+MI	NE	1.86																																															
+MN	NE	2.00																																															
+MO	NE	2.00																																															
+MS	NE	1.80																																															
+MT	NE	1.20																																															
+NC	NE	1.50																																															
+ND	NE	1.20																																															
+NE	NE	3.67																																															
+NH	NE	1.50																																															
+NJ	NE	1.50																																															
+NM	NE	1.20																																															
+NV	NE	1.50																																															
+NY	NE	1.50																																															
+OH	NE	2.00																																															
+OK	NE	2.00																																															
+OR	NE	1.20																																															
+PA	NE	1.50																																															
+RI	NE	1.50																																															
+SC	NE	1.50																																															
+SD	NE	1.20																																															
+TN	NE	2.00																																															
+TX	NE	1.76																																															
+UT	NE	1.50																																															
+VA	NE	1.50																																															
+VT	NE	1.50																																															
+WA	NE	1.20																																															
+WI	NE	1.85																																															
+WV	NE	1.50																																															
+WY	NE	1.00																																															
+ AL	NH	1.60																																															
+AR	NH	1.60																																															
+AZ	NH	1.40																																															
+CA	NH	1.40																																															
+CO	NH	1.30																																															
+CT	NH	2.00																																															
+DE	NH	2.00																																															
+FL	NH	1.40																																															
+GA	NH	1.50																																															
+IA	NH	1.80																																															
+ID	NH	1.30																																															
+IL	NH	1.85																																															
+IN	NH	1.85																																															
+KS	NH	1.80																																															
+KY	NH	1.70																																															
+LA	NH	1.75																																															
+MA	NH	3.00																																															
+MD	NH	2.00																																															
+ME	NH	2.00																																															
+MI	NH	2.00																																															
+MN	NH	1.70																																															
+MO	NH	1.80																																															
+MS	NH	1.70																																															
+MT	NH	1.50																																															
+NC	NH	1.70																																															
+ND	NH	1.50																																															
+NE	NH	1.80																																															
+NH	NH	3.00																																															
+NJ	NH	2.00																																															
+NM	NH	1.50																																															
+NV	NH	1.40																																															
+NY	NH	3.00																																															
+OH	NH	2.00																																															
+OK	NH	1.80																																															
+OR	NH	1.30																																															
+PA	NH	2.00																																															
+RI	NH	2.00																																															
+SC	NH	1.70																																															
+SD	NH	1.30																																															
+TN	NH	1.70																																															
+TX	NH	1.60																																															
+UT	NH	1.30																																															
+VA	NH	2.00																																															
+VT	NH	2.00																																															
+WA	NH	1.30																																															
+WI	NH	1.85																																															
+WV	NH	2.00																																															
+WY	NH	1.30																																															
+ AL	NJ	1.65																																															
+AR	NJ	1.60																																															
+AZ	NJ	1.40																																															
+CA	NJ	1.40																																															
+CO	NJ	1.20																																															
+CT	NJ	2.00																																															
+DE	NJ	2.00																																															
+FL	NJ	1.50																																															
+GA	NJ	1.68																																															
+IA	NJ	1.80																																															
+ID	NJ	1.50																																															
+IL	NJ	1.85																																															
+IN	NJ	1.85																																															
+KS	NJ	1.60																																															
+KY	NJ	1.70																																															
+LA	NJ	1.65																																															
+MA	NJ	2.00																																															
+MD	NJ	2.00																																															
+ME	NJ	2.00																																															
+MI	NJ	2.00																																															
+MN	NJ	1.70																																															
+MO	NJ	1.80																																															
+MS	NJ	1.70																																															
+MT	NJ	1.30																																															
+NC	NJ	1.68																																															
+ND	NJ	1.50																																															
+NE	NJ	1.60																																															
+NH	NJ	2.00																																															
+NJ	NJ	3.00																																															
+NM	NJ	1.30																																															
+NV	NJ	1.40																																															
+NY	NJ	3.00																																															
+OH	NJ	2.00																																															
+OK	NJ	1.60																																															
+OR	NJ	1.30																																															
+PA	NJ	2.00																																															
+RI	NJ	2.00																																															
+SC	NJ	1.68																																															
+SD	NJ	1.40																																															
+TN	NJ	1.60																																															
+TX	NJ	1.50																																															
+UT	NJ	1.40																																															
+VA	NJ	2.00																																															
+VT	NJ	2.00																																															
+WA	NJ	1.30																																															
+WI	NJ	1.85																																															
+WV	NJ	2.00																																															
+WY	NJ	1.30																																															
+ AL	NM	2.00																																															
+AR	NM	2.00																																															
+AZ	NM	2.00																																															
+CA	NM	2.00																																															
+CO	NM	2.00																																															
+CT	NM	1.50																																															
+DE	NM	1.50																																															
+FL	NM	1.40																																															
+GA	NM	1.65																																															
+IA	NM	2.00																																															
+ID	NM	2.00																																															
+IL	NM	1.85																																															
+IN	NM	1.85																																															
+KS	NM	2.00																																															
+KY	NM	2.00																																															
+LA	NM	1.70																																															
+MA	NM	1.50																																															
+MD	NM	1.50																																															
+ME	NM	1.50																																															
+MI	NM	2.00																																															
+MN	NM	2.00																																															
+MO	NM	2.00																																															
+MS	NM	2.00																																															
+MT	NM	1.30																																															
+NC	NM	1.60																																															
+ND	NM	2.00																																															
+NE	NM	2.00																																															
+NH	NM	1.50																																															
+NJ	NM	1.60																																															
+NM	NM	2.00																																															
+NV	NM	1.60																																															
+NY	NM	1.50																																															
+OH	NM	2.00																																															
+OK	NM	2.00																																															
+OR	NM	1.70																																															
+PA	NM	1.70																																															
+RI	NM	1.50																																															
+SC	NM	1.60																																															
+SD	NM	1.70																																															
+TN	NM	2.00																																															
+TX	NM	2.00																																															
+UT	NM	2.00																																															
+VA	NM	1.60																																															
+VT	NM	1.50																																															
+WA	NM	1.50																																															
+WI	NM	2.00																																															
+WV	NM	2.00																																															
+WY	NM	2.00																																															
+ AL	NV	1.40																																															
+AR	NV	1.65																																															
+AZ	NV	2.00																																															
+CA	NV	2.00																																															
+CO	NV	1.30																																															
+CT	NV	1.30																																															
+DE	NV	1.40																																															
+FL	NV	1.30																																															
+GA	NV	1.40																																															
+IA	NV	1.65																																															
+ID	NV	1.30																																															
+IL	NV	1.40																																															
+IN	NV	1.40																																															
+KS	NV	1.65																																															
+KY	NV	1.50																																															
+LA	NV	1.40																																															
+MA	NV	1.40																																															
+MD	NV	1.40																																															
+ME	NV	1.40																																															
+MI	NV	1.40																																															
+MN	NV	1.50																																															
+MO	NV	1.50																																															
+MS	NV	1.40																																															
+MT	NV	1.50																																															
+NC	NV	1.40																																															
+ND	NV	1.50																																															
+NE	NV	1.50																																															
+NH	NV	1.40																																															
+NJ	NV	1.40																																															
+NM	NV	1.40																																															
+NV	NV	2.00																																															
+NY	NV	1.40																																															
+OH	NV	1.40																																															
+OK	NV	1.60																																															
+OR	NV	1.20																																															
+PA	NV	1.40																																															
+RI	NV	1.40																																															
+SC	NV	1.40																																															
+SD	NV	1.50																																															
+TN	NV	1.50																																															
+TX	NV	1.50																																															
+UT	NV	1.40																																															
+VA	NV	1.40																																															
+VT	NV	1.40																																															
+WA	NV	1.30																																															
+WI	NV	1.40																																															
+WV	NV	1.40																																															
+WY	NV	1.50																																															
+ AL	NY	1.70																																															
+AR	NY	1.65																																															
+AZ	NY	1.40																																															
+CA	NY	1.40																																															
+CO	NY	1.20																																															
+CT	NY	2.00																																															
+DE	NY	2.00																																															
+FL	NY	1.50																																															
+GA	NY	1.60																																															
+IA	NY	1.80																																															
+ID	NY	1.50																																															
+IL	NY	1.85																																															
+IN	NY	1.85																																															
+KS	NY	1.65																																															
+KY	NY	1.70																																															
+LA	NY	1.65																																															
+MA	NY	2.00																																															
+MD	NY	2.00																																															
+ME	NY	1.70																																															
+MI	NY	2.00																																															
+MN	NY	1.70																																															
+MO	NY	1.80																																															
+MS	NY	1.70																																															
+MT	NY	1.30																																															
+NC	NY	1.65																																															
+ND	NY	1.50																																															
+NE	NY	1.50																																															
+NH	NY	2.00																																															
+NJ	NY	3.00																																															
+NM	NY	1.30																																															
+NV	NY	1.40																																															
+NY	NY	3.00																																															
+OH	NY	2.00																																															
+OK	NY	1.65																																															
+OR	NY	1.30																																															
+PA	NY	2.00																																															
+RI	NY	2.00																																															
+SC	NY	1.60																																															
+SD	NY	1.40																																															
+TN	NY	1.70																																															
+TX	NY	1.65																																															
+UT	NY	1.40																																															
+VA	NY	2.00																																															
+VT	NY	1.60																																															
+WA	NY	1.30																																															
+WI	NY	1.85																																															
+WV	NY	2.00																																															
+WY	NY	1.40																																															
+ AL	OH	1.60																																															
+AR	OH	1.65																																															
+AZ	OH	1.40																																															
+CA	OH	1.40																																															
+CO	OH	1.20																																															
+CT	OH	1.50																																															
+DE	OH	1.50																																															
+FL	OH	1.20																																															
+GA	OH	1.30																																															
+IA	OH	1.80																																															
+ID	OH	1.40																																															
+IL	OH	2.00																																															
+IN	OH	3.00																																															
+KS	OH	1.65																																															
+KY	OH	2.00																																															
+LA	OH	1.60																																															
+MA	OH	1.40																																															
+MD	OH	1.40																																															
+ME	OH	1.30																																															
+MI	OH	3.00																																															
+MN	OH	1.70																																															
+MO	OH	1.80																																															
+MS	OH	1.86																																															
+MT	OH	1.40																																															
+NC	OH	1.30																																															
+ND	OH	1.50																																															
+NE	OH	1.60																																															
+NH	OH	1.40																																															
+NJ	OH	1.50																																															
+NM	OH	1.30																																															
+NV	OH	1.30																																															
+NY	OH	1.50																																															
+OH	OH	3.00																																															
+OK	OH	1.65																																															
+OR	OH	1.40																																															
+PA	OH	1.50																																															
+RI	OH	1.40																																															
+SC	OH	1.30																																															
+SD	OH	1.40																																															
+TN	OH	1.80																																															
+TX	OH	1.65																																															
+UT	OH	1.40																																															
+VA	OH	1.40																																															
+VT	OH	1.40																																															
+WA	OH	1.40																																															
+WI	OH	2.00																																															
+WV	OH	1.60																																															
+WY	OH	1.30																																															
+ AL	OK	1.60																																															
+AR	OK	2.00																																															
+AZ	OK	1.40																																															
+CA	OK	1.50																																															
+CO	OK	1.00																																															
+CT	OK	1.40																																															
+DE	OK	1.40																																															
+FL	OK	1.20																																															
+GA	OK	1.40																																															
+IA	OK	1.80																																															
+ID	OK	1.40																																															
+IL	OK	1.85																																															
+IN	OK	1.85																																															
+KS	OK	2.00																																															
+KY	OK	1.70																																															
+LA	OK	1.60																																															
+MA	OK	1.40																																															
+MD	OK	1.40																																															
+ME	OK	1.30																																															
+MI	OK	1.85																																															
+MN	OK	1.70																																															
+MO	OK	2.00																																															
+MS	OK	1.70																																															
+MT	OK	1.50																																															
+NC	OK	1.60																																															
+ND	OK	1.50																																															
+NE	OK	1.60																																															
+NH	OK	1.40																																															
+NJ	OK	1.40																																															
+NM	OK	1.30																																															
+NV	OK	1.40																																															
+NY	OK	1.40																																															
+OH	OK	1.85																																															
+OK	OK	2.50																																															
+OR	OK	1.40																																															
+PA	OK	1.40																																															
+RI	OK	1.40																																															
+SC	OK	1.50																																															
+SD	OK	1.40																																															
+TN	OK	1.70																																															
+TX	OK	2.00																																															
+UT	OK	1.30																																															
+VA	OK	1.40																																															
+VT	OK	1.30																																															
+WA	OK	1.40																																															
+WI	OK	1.80																																															
+WV	OK	1.40																																															
+WY	OK	1.40																																															
+ AL	OR	1.40																																															
+AR	OR	1.70																																															
+AZ	OR	2.00																																															
+CA	OR	2.00																																															
+CO	OR	1.50																																															
+CT	OR	1.40																																															
+DE	OR	1.40																																															
+FL	OR	1.30																																															
+GA	OR	1.40																																															
+IA	OR	1.50																																															
+ID	OR	1.50																																															
+IL	OR	1.40																																															
+IN	OR	1.40																																															
+KS	OR	1.70																																															
+KY	OR	1.40																																															
+LA	OR	1.40																																															
+MA	OR	1.40																																															
+MD	OR	1.40																																															
+ME	OR	1.40																																															
+MI	OR	1.40																																															
+MN	OR	1.70																																															
+MO	OR	1.50																																															
+MS	OR	1.40																																															
+MT	OR	1.40																																															
+NC	OR	1.40																																															
+ND	OR	2.00																																															
+NE	OR	1.80																																															
+NH	OR	1.40																																															
+NJ	OR	1.40																																															
+NM	OR	1.50																																															
+NV	OR	2.00																																															
+NY	OR	1.30																																															
+OH	OR	1.40																																															
+OK	OR	1.60																																															
+OR	OR	2.42																																															
+PA	OR	1.40																																															
+RI	OR	1.30																																															
+SC	OR	1.40																																															
+SD	OR	2.00																																															
+TN	OR	1.40																																															
+TX	OR	1.50																																															
+UT	OR	2.00																																															
+VA	OR	1.30																																															
+VT	OR	1.30																																															
+WA	OR	2.00																																															
+WI	OR	1.45																																															
+WV	OR	1.50																																															
+WY	OR	1.70																																															
+ AL	PA	1.65																																															
+AR	PA	1.65																																															
+AZ	PA	1.40																																															
+CA	PA	1.40																																															
+CO	PA	1.20																																															
+CT	PA	1.70																																															
+DE	PA	2.00																																															
+FL	PA	1.40																																															
+GA	PA	1.50																																															
+IA	PA	1.70																																															
+ID	PA	1.30																																															
+IL	PA	1.85																																															
+IN	PA	1.85																																															
+KS	PA	1.65																																															
+KY	PA	1.70																																															
+LA	PA	1.65																																															
+MA	PA	1.70																																															
+MD	PA	2.00																																															
+ME	PA	1.70																																															
+MI	PA	2.00																																															
+MN	PA	1.70																																															
+MO	PA	1.85																																															
+MS	PA	1.75																																															
+MT	PA	1.20																																															
+NC	PA	1.75																																															
+ND	PA	1.50																																															
+NE	PA	1.60																																															
+NH	PA	1.70																																															
+NJ	PA	3.00																																															
+NM	PA	1.20																																															
+NV	PA	1.40																																															
+NY	PA	2.00																																															
+OH	PA	2.00																																															
+OK	PA	1.65																																															
+OR	PA	1.30																																															
+PA	PA	3.15																																															
+RI	PA	1.70																																															
+SC	PA	1.70																																															
+SD	PA	1.30																																															
+TN	PA	1.70																																															
+TX	PA	1.65																																															
+UT	PA	1.40																																															
+VA	PA	2.00																																															
+VT	PA	1.50																																															
+WA	PA	1.40																																															
+WI	PA	1.85																																															
+WV	PA	2.00																																															
+WY	PA	1.30																																															
+ AL	RI	1.75																																															
+AR	RI	1.80																																															
+AZ	RI	1.30																																															
+CA	RI	1.40																																															
+CO	RI	1.20																																															
+CT	RI	10.00																																															
+DE	RI	2.00																																															
+FL	RI	1.50																																															
+GA	RI	1.50																																															
+IA	RI	1.80																																															
+ID	RI	1.40																																															
+IL	RI	1.85																																															
+IN	RI	1.85																																															
+KS	RI	1.65																																															
+KY	RI	1.75																																															
+LA	RI	1.60																																															
+MA	RI	2.00																																															
+MD	RI	2.00																																															
+ME	RI	2.00																																															
+MI	RI	2.00																																															
+MN	RI	1.70																																															
+MO	RI	1.80																																															
+MS	RI	1.85																																															
+MT	RI	1.40																																															
+NC	RI	1.70																																															
+ND	RI	1.50																																															
+NE	RI	1.50																																															
+NH	RI	10.00																																															
+NJ	RI	2.00																																															
+NM	RI	1.40																																															
+NV	RI	1.30																																															
+NY	RI	2.00																																															
+OH	RI	2.00																																															
+OK	RI	1.80																																															
+OR	RI	1.30																																															
+PA	RI	2.30																																															
+RI	RI	11.22																																															
+SC	RI	1.76																																															
+SD	RI	1.40																																															
+TN	RI	1.75																																															
+TX	RI	1.70																																															
+UT	RI	1.40																																															
+VA	RI	2.00																																															
+VT	RI	10.00																																															
+WA	RI	1.30																																															
+WI	RI	1.80																																															
+WV	RI	2.00																																															
+WY	RI	1.30																																															
+ AL	SC	1.70																																															
+AR	SC	1.70																																															
+AZ	SC	1.40																																															
+CA	SC	1.40																																															
+CO	SC	1.30																																															
+CT	SC	1.50																																															
+DE	SC	1.75																																															
+FL	SC	1.20																																															
+GA	SC	4.25																																															
+IA	SC	1.80																																															
+ID	SC	1.30																																															
+IL	SC	1.85																																															
+IN	SC	1.85																																															
+KS	SC	1.70																																															
+KY	SC	1.80																																															
+LA	SC	1.50																																															
+MA	SC	1.50																																															
+MD	SC	1.70																																															
+ME	SC	1.40																																															
+MI	SC	1.85																																															
+MN	SC	1.70																																															
+MO	SC	1.80																																															
+MS	SC	1.75																																															
+MT	SC	1.30																																															
+NC	SC	4.25																																															
+ND	SC	1.50																																															
+NE	SC	1.50																																															
+NH	SC	1.50																																															
+NJ	SC	1.70																																															
+NM	SC	1.50																																															
+NV	SC	1.40																																															
+NY	SC	1.60																																															
+OH	SC	1.85																																															
+OK	SC	1.70																																															
+OR	SC	1.30																																															
+PA	SC	1.50																																															
+RI	SC	1.50																																															
+SC	SC	4.25																																															
+SD	SC	1.30																																															
+TN	SC	1.75																																															
+TX	SC	1.70																																															
+UT	SC	1.40																																															
+VA	SC	1.50																																															
+VT	SC	1.50																																															
+WA	SC	1.30																																															
+WI	SC	1.85																																															
+WV	SC	1.50																																															
+WY	SC	1.50																																															
+ AL	SD	1.50																																															
+AR	SD	2.00																																															
+AZ	SD	1.65																																															
+CA	SD	1.80																																															
+CO	SD	2.00																																															
+CT	SD	1.50																																															
+DE	SD	1.50																																															
+FL	SD	1.30																																															
+GA	SD	1.50																																															
+IA	SD	2.00																																															
+ID	SD	1.50																																															
+IL	SD	1.85																																															
+IN	SD	1.85																																															
+KS	SD	2.00																																															
+KY	SD	1.90																																															
+LA	SD	1.50																																															
+MA	SD	1.50																																															
+MD	SD	1.50																																															
+ME	SD	1.50																																															
+MI	SD	1.86																																															
+MN	SD	2.00																																															
+MO	SD	2.00																																															
+MS	SD	1.70																																															
+MT	SD	1.30																																															
+NC	SD	1.50																																															
+ND	SD	2.81																																															
+NE	SD	2.50																																															
+NH	SD	1.50																																															
+NJ	SD	1.50																																															
+NM	SD	2.00																																															
+NV	SD	1.60																																															
+NY	SD	1.50																																															
+OH	SD	1.80																																															
+OK	SD	2.00																																															
+OR	SD	1.30																																															
+PA	SD	1.50																																															
+RI	SD	1.50																																															
+SC	SD	1.60																																															
+SD	SD	2.00																																															
+TN	SD	1.80																																															
+TX	SD	1.80																																															
+UT	SD	1.40																																															
+VA	SD	1.50																																															
+VT	SD	1.50																																															
+WA	SD	1.40																																															
+WI	SD	1.87																																															
+WV	SD	1.60																																															
+WY	SD	1.30																																															
+ AL	TN	1.67																																															
+AR	TN	1.70																																															
+AZ	TN	1.40																																															
+CA	TN	1.40																																															
+CO	TN	1.20																																															
+CT	TN	1.40																																															
+DE	TN	1.40																																															
+FL	TN	1.20																																															
+GA	TN	1.78																																															
+IA	TN	1.70																																															
+ID	TN	1.30																																															
+IL	TN	1.85																																															
+IN	TN	1.85																																															
+KS	TN	1.70																																															
+KY	TN	2.00																																															
+LA	TN	1.67																																															
+MA	TN	1.40																																															
+MD	TN	1.40																																															
+ME	TN	1.30																																															
+MI	TN	1.85																																															
+MN	TN	1.70																																															
+MO	TN	1.80																																															
+MS	TN	2.00																																															
+MT	TN	1.30																																															
+NC	TN	1.78																																															
+ND	TN	1.50																																															
+NE	TN	1.50																																															
+NH	TN	1.40																																															
+NJ	TN	1.40																																															
+NM	TN	1.50																																															
+NV	TN	1.40																																															
+NY	TN	1.40																																															
+OH	TN	1.85																																															
+OK	TN	1.70																																															
+OR	TN	1.30																																															
+PA	TN	1.40																																															
+RI	TN	1.30																																															
+SC	TN	1.65																																															
+SD	TN	1.30																																															
+TN	TN	2.00																																															
+TX	TN	1.50																																															
+UT	TN	1.40																																															
+VA	TN	1.40																																															
+VT	TN	1.20																																															
+WA	TN	1.30																																															
+WI	TN	1.85																																															
+WV	TN	1.50																																															
+WY	TN	1.30																																															
+ AL	TX	2.00																																															
+AR	TX	2.00																																															
+AZ	TX	1.70																																															
+CA	TX	1.70																																															
+CO	TX	1.30																																															
+CT	TX	1.40																																															
+DE	TX	1.40																																															
+FL	TX	1.20																																															
+GA	TX	1.50																																															
+IA	TX	1.50																																															
+ID	TX	1.40																																															
+IL	TX	1.65																																															
+IN	TX	1.65																																															
+KS	TX	1.76																																															
+KY	TX	1.70																																															
+LA	TX	1.65																																															
+MA	TX	1.40																																															
+MD	TX	1.40																																															
+ME	TX	1.40																																															
+MI	TX	1.75																																															
+MN	TX	1.70																																															
+MO	TX	1.75																																															
+MS	TX	1.70																																															
+MT	TX	1.40																																															
+NC	TX	1.65																																															
+ND	TX	1.40																																															
+NE	TX	1.40																																															
+NH	TX	1.40																																															
+NJ	TX	1.40																																															
+NM	TX	1.50																																															
+NV	TX	1.50																																															
+NY	TX	1.40																																															
+OH	TX	1.60																																															
+OK	TX	2.00																																															
+OR	TX	1.30																																															
+PA	TX	1.40																																															
+RI	TX	1.40																																															
+SC	TX	1.60																																															
+SD	TX	1.50																																															
+TN	TX	1.70																																															
+TX	TX	2.00																																															
+UT	TX	1.50																																															
+VA	TX	1.40																																															
+VT	TX	1.40																																															
+WA	TX	1.30																																															
+WI	TX	1.75																																															
+WV	TX	1.50																																															
+WY	TX	1.50																																															
+ AL	UT	1.50																																															
+AR	UT	1.70																																															
+AZ	UT	1.70																																															
+CA	UT	2.00																																															
+CO	UT	2.00																																															
+CT	UT	1.40																																															
+DE	UT	1.40																																															
+FL	UT	1.40																																															
+GA	UT	1.50																																															
+IA	UT	1.70																																															
+ID	UT	1.60																																															
+IL	UT	1.50																																															
+IN	UT	1.50																																															
+KS	UT	1.80																																															
+KY	UT	1.60																																															
+LA	UT	1.60																																															
+MA	UT	1.40																																															
+MD	UT	1.40																																															
+ME	UT	1.40																																															
+MI	UT	1.70																																															
+MN	UT	1.70																																															
+MO	UT	1.50																																															
+MS	UT	1.50																																															
+MT	UT	1.40																																															
+NC	UT	1.40																																															
+ND	UT	2.00																																															
+NE	UT	1.80																																															
+NH	UT	1.40																																															
+NJ	UT	1.40																																															
+NM	UT	1.70																																															
+NV	UT	2.00																																															
+NY	UT	1.50																																															
+OH	UT	1.50																																															
+OK	UT	1.70																																															
+OR	UT	1.60																																															
+PA	UT	1.40																																															
+RI	UT	1.30																																															
+SC	UT	1.40																																															
+SD	UT	2.00																																															
+TN	UT	1.50																																															
+TX	UT	1.60																																															
+UT	UT	3.10																																															
+VA	UT	1.40																																															
+VT	UT	1.30																																															
+WA	UT	1.40																																															
+WI	UT	1.50																																															
+WV	UT	1.50																																															
+WY	UT	2.00																																															
+ AL	VA	1.65																																															
+AR	VA	1.65																																															
+AZ	VA	1.50																																															
+CA	VA	1.50																																															
+CO	VA	1.50																																															
+CT	VA	1.80																																															
+DE	VA	3.00																																															
+FL	VA	1.50																																															
+GA	VA	1.65																																															
+IA	VA	1.80																																															
+ID	VA	1.50																																															
+IL	VA	1.85																																															
+IN	VA	1.85																																															
+KS	VA	1.65																																															
+KY	VA	1.70																																															
+LA	VA	1.65																																															
+MA	VA	1.70																																															
+MD	VA	2.00																																															
+ME	VA	1.60																																															
+MI	VA	1.80																																															
+MN	VA	1.70																																															
+MO	VA	1.80																																															
+MS	VA	1.70																																															
+MT	VA	1.30																																															
+NC	VA	1.65																																															
+ND	VA	1.50																																															
+NE	VA	1.70																																															
+NH	VA	1.80																																															
+NJ	VA	2.39																																															
+NM	VA	1.30																																															
+NV	VA	1.40																																															
+NY	VA	2.39																																															
+OH	VA	1.80																																															
+OK	VA	1.65																																															
+OR	VA	1.30																																															
+PA	VA	2.00																																															
+RI	VA	1.70																																															
+SC	VA	1.65																																															
+SD	VA	1.50																																															
+TN	VA	1.70																																															
+TX	VA	1.50																																															
+UT	VA	1.30																																															
+VA	VA	2.39																																															
+VT	VA	1.50																																															
+WA	VA	1.30																																															
+WI	VA	1.85																																															
+WV	VA	2.00																																															
+WY	VA	1.30																																															
+ AL	VT	1.70																																															
+AR	VT	1.86																																															
+AZ	VT	1.35																																															
+CA	VT	1.34																																															
+CO	VT	1.40																																															
+CT	VT	3.00																																															
+DE	VT	2.00																																															
+FL	VT	1.50																																															
+GA	VT	1.60																																															
+IA	VT	1.70																																															
+ID	VT	1.40																																															
+IL	VT	1.75																																															
+IN	VT	1.70																																															
+KS	VT	1.70																																															
+KY	VT	1.80																																															
+LA	VT	1.70																																															
+MA	VT	2.00																																															
+MD	VT	2.00																																															
+ME	VT	2.00																																															
+MI	VT	1.85																																															
+MN	VT	1.85																																															
+MO	VT	1.85																																															
+MS	VT	1.80																																															
+MT	VT	1.50																																															
+NC	VT	2.00																																															
+ND	VT	1.80																																															
+NE	VT	1.80																																															
+NH	VT	3.00																																															
+NJ	VT	2.00																																															
+NM	VT	1.50																																															
+NV	VT	1.50																																															
+NY	VT	3.00																																															
+OH	VT	2.00																																															
+OK	VT	1.70																																															
+OR	VT	1.30																																															
+PA	VT	2.00																																															
+RI	VT	3.00																																															
+SC	VT	1.70																																															
+SD	VT	1.50																																															
+TN	VT	1.80																																															
+TX	VT	1.50																																															
+UT	VT	1.40																																															
+VA	VT	2.00																																															
+VT	VT	4.58																																															
+WA	VT	1.30																																															
+WI	VT	2.00																																															
+WV	VT	2.00																																															
+WY	VT	1.40																																															
+ AL	WA	1.40																																															
+AR	WA	1.50																																															
+AZ	WA	2.00																																															
+CA	WA	2.00																																															
+CO	WA	1.40																																															
+CT	WA	1.40																																															
+DE	WA	1.40																																															
+FL	WA	1.40																																															
+GA	WA	1.40																																															
+IA	WA	1.50																																															
+ID	WA	2.00																																															
+IL	WA	1.40																																															
+IN	WA	1.40																																															
+KS	WA	1.80																																															
+KY	WA	1.40																																															
+LA	WA	1.40																																															
+MA	WA	1.30																																															
+MD	WA	1.30																																															
+ME	WA	1.40																																															
+MI	WA	1.40																																															
+MN	WA	1.65																																															
+MO	WA	1.40																																															
+MS	WA	1.40																																															
+MT	WA	1.50																																															
+NC	WA	1.40																																															
+ND	WA	2.00																																															
+NE	WA	1.80																																															
+NH	WA	1.40																																															
+NJ	WA	1.40																																															
+NM	WA	2.00																																															
+NV	WA	2.00																																															
+NY	WA	1.40																																															
+OH	WA	1.40																																															
+OK	WA	1.50																																															
+OR	WA	2.00																																															
+PA	WA	1.40																																															
+RI	WA	1.40																																															
+SC	WA	1.40																																															
+SD	WA	1.80																																															
+TN	WA	1.40																																															
+TX	WA	1.50																																															
+UT	WA	1.70																																															
+VA	WA	1.40																																															
+VT	WA	1.40																																															
+WA	WA	2.28																																															
+WI	WA	1.40																																															
+WV	WA	1.50																																															
+WY	WA	2.00																																															
+ AL	WI	1.50																																															
+AR	WI	1.50																																															
+AZ	WI	1.40																																															
+CA	WI	1.40																																															
+CO	WI	1.20																																															
+CT	WI	1.40																																															
+DE	WI	1.40																																															
+FL	WI	1.20																																															
+GA	WI	1.30																																															
+IA	WI	1.70																																															
+ID	WI	1.40																																															
+IL	WI	3.00																																															
+IN	WI	2.00																																															
+KS	WI	1.50																																															
+KY	WI	1.60																																															
+LA	WI	1.40																																															
+MA	WI	1.40																																															
+MD	WI	1.40																																															
+ME	WI	1.30																																															
+MI	WI	1.70																																															
+MN	WI	2.00																																															
+MO	WI	1.70																																															
+MS	WI	1.60																																															
+MT	WI	1.20																																															
+NC	WI	1.30																																															
+ND	WI	1.20																																															
+NE	WI	1.40																																															
+NH	WI	1.40																																															
+NJ	WI	1.40																																															
+NM	WI	1.20																																															
+NV	WI	1.40																																															
+NY	WI	1.40																																															
+OH	WI	1.60																																															
+OK	WI	1.65																																															
+OR	WI	1.20																																															
+PA	WI	1.40																																															
+RI	WI	1.40																																															
+SC	WI	1.30																																															
+SD	WI	1.20																																															
+TN	WI	1.60																																															
+TX	WI	1.40																																															
+UT	WI	1.40																																															
+VA	WI	1.40																																															
+VT	WI	1.40																																															
+WA	WI	1.20																																															
+WI	WI	3.50																																															
+WV	WI	1.50																																															
+WY	WI	1.20																																															
+ AL	WV	1.60																																															
+AR	WV	1.65																																															
+AZ	WV	1.40																																															
+CA	WV	1.40																																															
+CO	WV	1.30																																															
+CT	WV	1.70																																															
+DE	WV	3.00																																															
+FL	WV	1.30																																															
+GA	WV	1.78																																															
+IA	WV	1.80																																															
+ID	WV	1.50																																															
+IL	WV	1.85																																															
+IN	WV	1.85																																															
+KS	WV	1.65																																															
+KY	WV	1.80																																															
+LA	WV	1.60																																															
+MA	WV	1.80																																															
+MD	WV	2.00																																															
+ME	WV	1.70																																															
+MI	WV	2.00																																															
+MN	WV	1.70																																															
+MO	WV	1.80																																															
+MS	WV	1.80																																															
+MT	WV	1.30																																															
+NC	WV	1.78																																															
+ND	WV	1.50																																															
+NE	WV	1.75																																															
+NH	WV	1.80																																															
+NJ	WV	2.00																																															
+NM	WV	1.30																																															
+NV	WV	1.40																																															
+NY	WV	2.00																																															
+OH	WV	2.00																																															
+OK	WV	1.65																																															
+OR	WV	1.30																																															
+PA	WV	2.00																																															
+RI	WV	2.00																																															
+SC	WV	1.78																																															
+SD	WV	1.50																																															
+TN	WV	1.80																																															
+TX	WV	1.65																																															
+UT	WV	1.50																																															
+VA	WV	2.40																																															
+VT	WV	1.70																																															
+WA	WV	1.50																																															
+WI	WV	1.85																																															
+WV	WV	2.40																																															
+WY	WV	1.50																																															
+ AL	WY	1.70																																															
+AR	WY	1.80																																															
+AZ	WY	1.80																																															
+CA	WY	1.80																																															
+CO	WY	3.00																																															
+CT	WY	1.60																																															
+DE	WY	1.60																																															
+FL	WY	1.50																																															
+GA	WY	1.60																																															
+IA	WY	1.80																																															
+ID	WY	2.00																																															
+IL	WY	2.00																																															
+IN	WY	1.90																																															
+KS	WY	1.80																																															
+KY	WY	1.80																																															
+LA	WY	1.60																																															
+MA	WY	1.60																																															
+MD	WY	1.60																																															
+ME	WY	1.60																																															
+MI	WY	1.70																																															
+MN	WY	1.70																																															
+MO	WY	1.70																																															
+MS	WY	1.70																																															
+MT	WY	2.00																																															
+NC	WY	1.70																																															
+ND	WY	2.00																																															
+NE	WY	3.00																																															
+NH	WY	1.60																																															
+NJ	WY	1.60																																															
+NM	WY	2.00																																															
+NV	WY	2.00																																															
+NY	WY	1,5																																															
+OH	WY	1.70																																															
+OK	WY	1.80																																															
+OR	WY	1.40																																															
+PA	WY	1.50																																															
+RI	WY	1,5																																															
+SC	WY	1.70																																															
+SD	WY	3.00																																															
+TN	WY	1.70																																															
+TX	WY	1.70																																															
+UT	WY	2.00																																															
+VA	WY	1.50																																															
+VT	WY	1.60																																															
+WA	WY	1.50																																															
+WI	WY	2.00																																															
+WV	WY	2.00																																															
+WY	WY	3.00																																															
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
+																																																	
