@@ -346,49 +346,78 @@ def process_follow_up_emails(access_token, service):
             continue
 
 def daily_task():
-    """Task principale eseguito ogni giorno"""
+    """Task principale eseguito ogni giorno alle 6:00 (ora italiana)"""
     logger.info(f"=== INIZIO TASK GIORNALIERO - {datetime.now(ITALY_TZ)} ===")
     
-    # Ottieni token di accesso
-    access_token = get_access_token()
-    if not access_token:
-        logger.error("Impossibile ottenere il token di accesso. Uscita.")
-        return
+    try:
+        # Ottieni token di accesso
+        access_token = get_access_token()
+        if not access_token:
+            logger.error("Impossibile ottenere token di accesso")
+            return
+        
+        # Inizializza Google Sheets
+        sheets_service = get_google_sheets_service()
+        if not sheets_service:
+            logger.error("Impossibile inizializzare Google Sheets")
+            return
+        
+        # Fase 1: Controlla email inviate con keyword nel titolo
+        logger.info(f"Fase 1: Controllo email inviate con '{SEARCH_KEYWORD}' nel titolo...")
+        sent_emails = get_sent_emails_last_24h(access_token)
+        
+        blacklist = get_blacklist_emails(sheets_service)
+        
+        facture_emails_found = 0
+        for email in sent_emails:
+            subject = email.get('subject', '').lower()
+            if SEARCH_KEYWORD.lower() in subject:
+                to_recipients = email.get('toRecipients', [])
+                for recipient in to_recipients:
+                    email_address = recipient.get('emailAddress', {}).get('address', '')
+                    if email_address:
+                        if add_email_to_sheet(sheets_service, email_address, blacklist):
+                            facture_emails_found += 1
+        
+        logger.info(f"Trovate {facture_emails_found} nuove email con '{SEARCH_KEYWORD}' nel titolo")
+        
+        # Fase 2: Processa email di follow-up
+        logger.info("Fase 2: Processamento email di follow-up...")
+        process_follow_up_emails(access_token, sheets_service)
+        
+        logger.info(f"=== FINE TASK GIORNALIERO - {datetime.now(ITALY_TZ)} ===")
+        
+    except Exception as e:
+        logger.error(f"Errore durante l'esecuzione del task giornaliero: {e}")
+
+def should_run_daily_task():
+    """Controlla se è il momento di eseguire il task giornaliero"""
+    now = datetime.now(ITALY_TZ)
+    target_time = now.replace(hour=int(DAILY_TASK_TIME.split(':')[0]), 
+                             minute=int(DAILY_TASK_TIME.split(':')[1]), 
+                             second=0, microsecond=0)
     
-    # Inizializza Google Sheets
-    sheets_service = get_google_sheets_service()
-    if not sheets_service:
-        logger.error("Impossibile inizializzare Google Sheets. Uscita.")
-        return
+    # Se l'ora target è già passata oggi, programma per domani
+    if now > target_time:
+        target_time += timedelta(days=1)
     
-    # Fase 1: Controlla email inviate con keyword nel titolo
-    logger.info(f"Fase 1: Controllo email inviate con '{SEARCH_KEYWORD}' nel titolo...")
-    sent_emails = get_sent_emails_last_24h(access_token)
+    time_diff = (target_time - now).total_seconds()
     
-    blacklist = get_blacklist_emails(sheets_service)
+    # Logging dettagliato ogni minuto
+    if now.second < 30:  # Log solo una volta al minuto
+        logger.info(f"Controllo timing - Ora: {now.strftime('%H:%M:%S')}, Target: {DAILY_TASK_TIME}, Secondi rimanenti: {time_diff:.0f}")
     
-    facture_emails_found = 0
-    for email in sent_emails:
-        subject = email.get('subject', '').lower()
-        if SEARCH_KEYWORD.lower() in subject:
-            to_recipients = email.get('toRecipients', [])
-            for recipient in to_recipients:
-                email_address = recipient.get('emailAddress', {}).get('address', '')
-                if email_address:
-                    if add_email_to_sheet(sheets_service, email_address, blacklist):
-                        facture_emails_found += 1
+    # Esegui se siamo entro 1 minuto dall'ora target
+    if time_diff <= 60 and time_diff >= 0:
+        logger.info(f"🎯 È il momento di eseguire il task giornaliero! Ora: {now}")
+        return True
     
-    logger.info(f"Trovate {facture_emails_found} nuove email con '{SEARCH_KEYWORD}' nel titolo")
-    
-    # Fase 2: Processa email di follow-up
-    logger.info("Fase 2: Processamento email di follow-up...")
-    process_follow_up_emails(access_token, sheets_service)
-    
-    logger.info(f"=== FINE TASK GIORNALIERO - {datetime.now(ITALY_TZ)} ===")
+    return False
 
 def health_check():
     """Health check per Render"""
-    logger.info("Health check eseguito")
+    now = datetime.now(ITALY_TZ)
+    logger.info(f"Health check eseguito - Ora italiana: {now}")
     return True
 
 def main():
@@ -397,22 +426,33 @@ def main():
     logger.info(f"Ora corrente: {datetime.now(ITALY_TZ)}")
     logger.info(f"Task programmato per le {DAILY_TASK_TIME} ogni giorno (ora italiana)")
     
-    # Programma il task
-    schedule.every().day.at(DAILY_TASK_TIME).do(daily_task)
-    
-    # Health check ogni ora
-    schedule.every().hour.do(health_check)
+    # Variabile per tracciare se il task è già stato eseguito oggi
+    last_execution_date = None
     
     # Esegui immediatamente per test (solo se specificato)
     if os.getenv('ENABLE_IMMEDIATE_TEST', 'false').lower() == 'true':
         logger.info("=== ESECUZIONE TEST IMMEDIATA ===")
         daily_task()
+        last_execution_date = datetime.now(ITALY_TZ).date()
     
-    # Loop principale ottimizzato per Render
+    # Loop principale ottimizzato per Render con gestione timezone
     while True:
         try:
-            schedule.run_pending()
+            now = datetime.now(ITALY_TZ)
+            current_date = now.date()
+            
+            # Controlla se è il momento di eseguire il task e non è già stato eseguito oggi
+            if should_run_daily_task() and last_execution_date != current_date:
+                logger.info(f"Esecuzione task giornaliero alle {now}")
+                daily_task()
+                last_execution_date = current_date
+            
+            # Health check ogni ora
+            if now.minute == 0 and now.second < 30:
+                health_check()
+            
             time.sleep(30)  # Controlla ogni 30 secondi su Render
+            
         except KeyboardInterrupt:
             logger.info("Sistema interrotto dall'utente")
             break
