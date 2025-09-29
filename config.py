@@ -3,7 +3,7 @@ MICROSOFT_GRAPH = {
     'TENANT_ID': "ee6b29b7-6376-4655-9712-8096e78247f1",
     'CLIENT_ID': "312ac792-f712-4e91-94ac-91f2d858b52b",
     'CLIENT_SECRET': "wCp8Q~GpDCnUDldqwe3P4oKV-I~0Bh5VnwmwLdkp",
-    'SENDER_EMAIL': "f.defin@defincouverture.fr"
+    'SENDER_EMAIL': "contact@defincouverture.fr"
 }
 
 # Configurazione Google Sheets
